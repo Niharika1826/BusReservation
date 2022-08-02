@@ -1,0 +1,16 @@
+body {
+    
+    background:whitesmoke;
+    font-size: 1rem;
+    
+  }
+  
+  .l_image{
+    background-image: url("C:\Users\chnihari\project\busreservation\src\images\passengerlogin.jpg");
+    background-size: cover;
+  }
+
+.c_image{
+    background-image: url("C:\Users\chnihari\project\busreservation\src\images\passengercontroller.jpg");
+    background-size: cover;
+  }
